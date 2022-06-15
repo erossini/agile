@@ -1,5 +1,7 @@
-# Welcome to Docsify Page!
+# Welcome to Agile documentation!
 
-This site was created using [**Docsify**](https://docsify.js.org), which is an open source documentation site generator, and imported in GitHub page. This site was created for [**PureSourceCode.com**](https://www.puresourcecode.com/) demo.
+This is a collection of document about Agile in general but in particular about Scrum, Kanban and Extreme Programming (XP).
 
-![Welcome to PureSourceCode.com](./images/cover.jpg)
+I'm putting togehter this documentation to help me and my teams to understand this methologies better and create a reference and resources for everybody.
+
+This site was created using [**Docsify**](https://docsify.js.org), which is an open source documentation site generator, and imported in GitHub page. This site was created with the template from [**PureSourceCode.com**](https://www.puresourcecode.com/).
