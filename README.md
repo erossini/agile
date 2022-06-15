@@ -7,3 +7,10 @@ I'm putting togehter this documentation to help me and my teams to understand th
 The GitHub pages for this repo is available [here](https://erossini.github.io/agile).
 
 This site was created using [**Docsify**](https://docsify.js.org), which is an open source documentation site generator, and imported in GitHub page. This site was created with the template from [**PureSourceCode.com**](https://www.puresourcecode.com/).
+
+flowchart TD
+    A[Start] --> B{Is it?}
+    B -- Yes --> C[OK]
+    C --> D[Rethink]
+    D --> B
+    B -- No ----> E[End]
