@@ -1,3 +1,5 @@
+![Agile cover](./images/agile-cover-4.png)
+
 # Welcome to Agile documentation!
 
 This is a collection of document about Agile in general but in particular about Scrum, Kanban and Extreme Programming (XP).
