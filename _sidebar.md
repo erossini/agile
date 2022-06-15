@@ -7,7 +7,7 @@
   * [Example 2](./examples/example2/index)
   * [Example 3](./examples/example3/index)
 
-* [Resources]
+* [Resources](./resources/index.md)
 
 * [About](./about/index)
 
