@@ -2,10 +2,8 @@
 
 * [HOME](./)
 
-* [Examples](./examples/index)
-  * [Example 1](./examples/example1/index)
-  * [Example 2](./examples/example2/index)
-  * [Example 3](./examples/example3/index)
+* [Fundamentals](./fundamentals/index.md)
+  - [Waterfall](./fundamentals/waterfall.md)
 
 * [Resources](./resources/index.md)
 
