@@ -24,13 +24,13 @@ In recent years there has been a gradual decline in the waterfall model in favor
 
 ## The Disadvantages
 
-No doubt that there are advantages to human-made inventions, there are also disadvantages. There are some similar flaws in the waterfall process. Let’s take a closer look at these flaws.
+No doubt that there are advantages to human-made inventions, there are also disadvantages. There are some similar flaws in the waterfall process. Let's take a closer look at these flaws.
 
-While some elements in software development never change, many other things often fall apart in the process. Dr. Winston W. Rice’s initial proposal, now known as the waterfall model, was to break the earth. When it was first published in 1970, there were several cracks in its theory.
+While some elements in software development never change, many other things often fall apart in the process. Dr. Winston W. Rice's initial proposal, now known as the waterfall model, was to break the earth. When it was first published in 1970, there were several cracks in its theory.
 
 - _Non adaptive design constraints_: Although only a whole book can be written on this subject, the most detrimental aspect of the waterfall model is the inherent lack of adaptation at all stages of the developmental period. When the test in step five reveals a fundamental flaw in the design of the system, it requires not only a dramatic leap in the process. But in some cases, it can often lead to a devastating feeling about the legitimacy of the entire system. Although experienced teams and developers would (rightly) argue that such disclosures should not occur if the system is properly designed in the first place. Especially when the stages are often delayed until the end of the waterfall process.
 - _Ignore moderate user/client feedback_: Due to the rigorous step-by-step process of implementing the waterfall process, another particularly difficult problem is that the feedback provided by the user or client late in the development cycle can often be too short, too late. Although project managers can clearly implement a process to return to the previous stage due to an expected need or a change from a client. So, it will be expensive and time-consuming for both the development team and the client.
-- _Delayed the period of testing_: Phase most modern SDLC models try to integrate testing as a basic and ever-present process during development. The waterfall model avoids late testing for life cycles. Not only does this mean that most bugs or even design issues can’t be traced back to this process, but it also encourages poor coding methods because testing is just a thought.
+- _Delayed the period of testing_: Phase most modern SDLC models try to integrate testing as a basic and ever-present process during development. The waterfall model avoids late testing for life cycles. Not only does this mean that most bugs or even design issues can't be traced back to this process, but it also encourages poor coding methods because testing is just a thought.
 
 ## Project Manager
 
@@ -60,9 +60,9 @@ And as each step cascades into the next one, like water flowing down in a waterf
 
 ### Cons
 
-- _Lack of flexibility_: the model requires everything to be clearly defined before starting each phase — something that's not practical when client/customer needs could change any time. So, if they want to change any project feature, or if the requirements aren’t clear, you’ll have to restart the project from the requirements phase again.
-- _The testing process can be risky_: you need to develop the entire project before you can start testing it. This delay can increase the chances of your project being riddled with bugs and other issues. And if the testing process reveals too many issues, you’ll have to restart the whole development process from scratch. Moreover, as the project is nearly over by the time you reach the testing stage, teams tend to rush through it just to deliver the project in time. While they’ll meet the deadline, the client could receive a product that wasn’t adequately tested and checked. 
-- _Not suitable for large, complex projects_: large projects are also more prone to changing requirements. If you use the Waterfall model to manage such projects, you’ll have to restart the development process each time the requirement changes — which is definitely not feasible. Additionally, as the testing phase occurs only post-development, you can’t test individual components in such projects — resulting in a bug-ridden product.
+- _Lack of flexibility_: the model requires everything to be clearly defined before starting each phase — something that's not practical when client/customer needs could change any time. So, if they want to change any project feature, or if the requirements aren't clear, you'll have to restart the project from the requirements phase again.
+- _The testing process can be risky_: you need to develop the entire project before you can start testing it. This delay can increase the chances of your project being riddled with bugs and other issues. And if the testing process reveals too many issues, you'll have to restart the whole development process from scratch. Moreover, as the project is nearly over by the time you reach the testing stage, teams tend to rush through it just to deliver the project in time. While they'll meet the deadline, the client could receive a product that wasn't adequately tested and checked. 
+- _Not suitable for large, complex projects_: large projects are also more prone to changing requirements. If you use the Waterfall model to manage such projects, you'll have to restart the development process each time the requirement changes — which is definitely not feasible. Additionally, as the testing phase occurs only post-development, you can't test individual components in such projects — resulting in a bug-ridden product.
 
 ## A real example
 
@@ -74,7 +74,7 @@ When I had to deploy this webapplication on a server, there were always issues w
 
 ![Service unavailable](../images/service-unavailable.jpg)
 
-To avoid those issues, it was necessary to find new ways to deploy new software without creating issues to the users but not always was avoidable.
+To avoid those issues, it was necessary to find new ways to deploy new software without creating issues to the users but not always was avoidable. For this reason, usually, we organized a scheluded maintenance to communicate to all the users, where possible. 
 
 Think in our modern world. You want to buy from Amazon at any time products or your shopping, see your bank statement, play with your Xbox, read your emails...
 
@@ -83,4 +83,4 @@ So, it is not longer acceptable that a webapplication could be down. The worst s
 ## FAQs
 
 - _When can design changes be made in the Waterfall process?_ Alterations are easy to accommodate in the early stages of development, such as when the project manager is still fleshing out the specification documents with the development team and clients. Later in the Waterfall process, once coding has already begun, design changes can be difficult and expensive to make.
-- _What other benefits are there to Waterfall’s organized structure?_ While the Waterfall methodology may sound overly restrictive for certain kinds of projects, it can be a great way to keep a well-defined, predictable project from exceeding time and budget guidelines. The clear and detailed organization can also help during complex projects that involve a lot of people working toward a clearly outlined goal.
+- _What other benefits are there to Waterfall's organized structure?_ While the Waterfall methodology may sound overly restrictive for certain kinds of projects, it can be a great way to keep a well-defined, predictable project from exceeding time and budget guidelines. The clear and detailed organization can also help during complex projects that involve a lot of people working toward a clearly outlined goal.
