@@ -14,6 +14,7 @@
   - [Waterfall vs Agile](./agile/vs-waterfall.md)
 
 * [Resources](./resources/index.md)
+  - [Top Scrum Interview Questions](./resources/top-questions.md)
 
 * [About](./about/index)
 
