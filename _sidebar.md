@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [HOME](./)
+* [Home](./)
 
 * [Waterfall](./waterfall/waterfall.md)
 
