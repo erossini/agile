@@ -2,8 +2,7 @@
 
 * [HOME](./)
 
-* [Fundamentals](./fundamentals/index.md)
-  - [Waterfall](./fundamentals/waterfall.md)
+* [Waterfall](./waterfall/waterfall.md)
 
 *  [Agile](./agile/index.md)
   - [How was born](./agile/how-was-born.md)

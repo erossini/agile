@@ -1,6 +1,6 @@
 # Waterfall vs Agile
 
-Traditional project management styles like [Waterfall](../fundamentals/waterfall.md) is built in **phases**. Here you see an illustration of a standard Waterfall project.
+Traditional project management styles like [Waterfall](../waterfall/waterfall.md) is built in **phases**. Here you see an illustration of a standard Waterfall project.
 
 ![Waterfall Big launch](../images/waterfall-biglaunch.png)
 

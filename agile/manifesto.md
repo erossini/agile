@@ -26,7 +26,7 @@ While Agile does not eliminate documentation, bui it streamlines it in a form th
 
 Negotiation is the period when the customer and the product manager work out the details of a delivery with points along the way where the details may be renegotiated.
 
-Collaboration is a different creature altogether. With the development models such as [Waterfall](../fundamentals/waterfall.md), customers negotiate the requirements for the product, often in great detail prior to any work starting. This meant the customer was involved in the process of development, before development begin and after it was completed, but not during the process.
+Collaboration is a different creature altogether. With the development models such as [Waterfall](../waterfall/waterfall.md), customers negotiate the requirements for the product, often in great detail prior to any work starting. This meant the customer was involved in the process of development, before development begin and after it was completed, but not during the process.
 
 The Agile Manifesto describes a customer who is engaged and collaborate throughout the development process making. This makes it far easier for development team to meet the needs of the customer. Instead of fixing a contract in stone at the beginning of the project, it tries to fix as little as possible. Resolve decisions throughout your project by collaborating closely with your clients and stakeholders, give them what they want and need to avoid any issues later.
 
