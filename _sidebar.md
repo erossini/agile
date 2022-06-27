@@ -11,6 +11,7 @@
   - [Agile Litmus Test](./agile/agile-test.md)
   - [What Agile is not?](./agile/is-not-agile.md)
   - [Waterfall vs Agile](./agile/vs-waterfall.md)
+  - [Advantages & Disadvantages](./agile/pros-cons.md)
 
 * [Resources](./resources/index.md)
   - [Top Scrum Interview Questions](./resources/top-questions.md)
