@@ -6,15 +6,15 @@ While you are preparing for the Agile Scrum interview, move to your final prepar
 
 ![Top 40 Agile Scrum Interview Questions: Agile vs Waterfall](../images/Waterfall-Agile-Infographic-03-458x1024.jpg)
 
-#### 1\. What is the duration of a scrum sprint?
+##### 1\. What is the duration of a scrum sprint?
 
 Answer: Generally, the duration of a scrum sprint (scrum cycle) depends upon the size of project and team working on it. The team size may vary from 3-9 members. In general, a scrum script complete in 3-4 weeks. Thus, on an average, the duration of a scrum sprint (scrum cycle) is 4 weeks. This type of sprint-based Agile scrum interview questions is very common in an agile or scrum master interview.
 
-#### 2\. What is Velocity?
+##### 2\. What is Velocity?
 
 Answer: Velocity question is generally posed to understand if you have done some real work and familiar with the term. Its definition “Velocity is the rate at which team progresses print by sprint” should be enough. You can also add saying the important feature of velocity that you can’t compare the velocity to two different scrum teams.
 
-#### 3\. What do you know about impediments in Scrum? Give some examples of impediments.
+##### 3\. What do you know about impediments in Scrum? Give some examples of impediments.
 
 Answer: Impediments are the obstacles or issues faced by scrum team which slow down their speed of work. If something is trying to block the scrum team from their getting work “Done” then it is an impediment. Impediments can come in any form. Some of the impediments are coming from:
 
@@ -27,21 +27,21 @@ Answer: Impediments are the obstacles or issues faced by scrum team which slow d
 
 While answering impediments related agile scrum interview questions remember that you may be asked the way to remove any of the mentioned impediment.
 
-#### 4\. What is the difference and similarity between Agile and Scrum?
+##### 4\. What is the difference and similarity between Agile and Scrum?
 
 Answer: Difference between Agile and Scrum – Agile is a broad spectrum, it is a methodology used for project management while Scrum is just a form of the Agile that describes the process and its steps more concisely. Agile is a practice whereas scrum is a procedure to pursue this practice.
 
 The similarity between Agile and Scrum – The Agile involves completing projects in steps or incrementally. People consider the Agile methodology iterative in nature. Being a form of Agile, Scrum is same as that of the Agile. It is also incremental and iterative.
 
-#### 5\. What is the increment? Explain.
+##### 5\. What is the increment? Explain.
 
 Answer: This is one of the common agile scrum interview questions and yu can answer it quickly in this way. An increment is the total of all the product backlogs items completed during a sprint. Each increment includes all the previous sprint increment values as it is cumulative. It must be in the available mode in the subsequent release as it is a step to reach your goal.
 
-#### 6\. What is the “build-breaker”?
+##### 6\. What is the “build-breaker”?
 
 Answer: The build-breaker is a situation that arises when there is a bug in the software. Due to this sudden unexpected bug, compilation process stops or execution fails or a warning is generated. The responsibility of the tester is then to get the software back to the normal working stage removing the bug.
 
-#### 7\. What do you understand by Daily Stand-Up?
+##### 7\. What do you understand by Daily Stand-Up?
 
 Answer: You may surely get an interview question about daily stand-up. So, what should be the answer to this question? The daily stand-up is an everyday meeting (most preferably held in the morning) in which the whole team meets for almost 15 minutes to find answer to the following three questions:
 
@@ -51,7 +51,7 @@ Answer: You may surely get an interview question about daily stand-up. So, what 
 
 The daily stand-up is an effective way to motivate the team and make them set a goal for the day.
 
-#### 8\. What do you know about Scrum ban?
+##### 8\. What do you know about Scrum ban?
 
 Answer: Scrum-ban is a Scrum and Kanban-based model for the software development. This model is specifically used for the projects that need continuous maintenance, have various programming errors or have some sudden changes. This model promotes the completion of a project in minimum time for a programming error or user story.
 
@@ -62,7 +62,7 @@ Answer: Scrum-ban is a Scrum and Kanban-based model for the software development
 
 In this section, we are going to cover Agile interview questions. You should be prepared for the agile interview with the following agile interview questions.
 
-#### 9\. State some of the Agile quality strategies
+##### 9\. State some of the Agile quality strategies
 
 Answer: Some of the Agile quality strategies are:
 
@@ -74,7 +74,7 @@ Answer: Some of the Agile quality strategies are:
 * Standards and guidelines
 * Milestone reviews
 
-#### 10\. Do you know about Agile Manifesto & its Principles? Explain in brief
+##### 10\. Do you know about Agile Manifesto & its Principles? Explain in brief
 
 Answer: This is the theory which most of agile/scrum roles aspirant should be on tips. Four manifesto values and 12 principles should be explained as much as possible as part of this question. Even if it’s not explained in 100% accurate manner it should be fine but intentions of values and principles should come out e.g.
 
@@ -83,7 +83,7 @@ Answer: This is the theory which most of agile/scrum roles aspirant should be on
 * Customer collaboration
 * Welcoming change at any point in time in the project
 
-#### 11\. Is there any drawback of the Agile model? If yes, explain
+##### 11\. Is there any drawback of the Agile model? If yes, explain
 
 Answer: Yes, there are some drawbacks of the Agile model, some of them are as follows
 
@@ -94,11 +94,11 @@ Answer: Yes, there are some drawbacks of the Agile model, some of them are as fo
 
 It’s not always the case that you will be asked the questions about the characteristics and advantages of the agile and scrum in an agile scrum interview. So, just prepare yourself for the drawbacks and disadvantages related agile scrum interview questions.
 
-#### 12\. What is the use of burn-up and burn-down charts?
+##### 12\. What is the use of burn-up and burn-down charts?
 
 Answer: The burn-up chart illustrates the amount of completed work in a project whereas the burn-down chart depicts the amount of work remained to complete a project. Thus, the burn-up and burn-down charts are tracing the progress of a project.
 
-#### 13\. Define Zero Sprint and Spike in Agile.
+##### 13\. Define Zero Sprint and Spike in Agile.
 
 Answer: To answer this question, describe Zero Sprint and Agile in detail, as follows.
 
@@ -110,21 +110,21 @@ Answer: To answer this question, describe Zero Sprint and Agile in detail, as fo
 
 While going for a scrum job interview, prepare yourself for some good scrum interview questions. There are a lot of questions related to scrum master, sprint, story point, sashimi, ceremonies you have to answer to the interviewer. So, prepare yourself for these scrum interview questions.
 
-#### 14\. What is the role of the Scrum Master?
+##### 14\. What is the role of the Scrum Master?
 
 Answer: Here’s how you can answer Scrum Master interview questions like this:
 
 The scrum master is the leader as well as coach of the Scrum team. The scrum master is responsible to serve and protect his team from any kind of distractions that could affect their performance. The main role of the scrum master is to motivate his team to achieve the sprint goal. The focus of the Scrum Master is to build a self-organized and motivated team where each member is familiar with the implementation of Agile and Scrum principles and applications. The scrum master keeps a proper check on the scrum team if they are executing committed tasks properly. He is also responsible to increase the efficiency and productivity of the team so that they can achieve the sprint goal effectively.
 
-#### 15\. What do you know about a story point in Scrum?
+##### 15\. What do you know about a story point in Scrum?
 
 Answer: A story point in Scrum is the unit for the estimation of total efforts that are required to perform or complete a particular task. So, here is how you can answer such agile scrum interview questions on a single line.
 
-#### 16\. What is the role of Sashimi in Scrum methodology?
+##### 16\. What is the role of Sashimi in Scrum methodology?
 
 Answer: Sashimi plays an important role in Scrum methodology. Sashimi is a technique used by Scrum to check the completion of all the functions created by the developers. Using this technique, all the requirements such as analysis, designing, coding, testing and documentation that are used in the constitution of a product are checked and only after that the product is displayed.
 
-#### 17\. What are the different roles in Scrum?
+##### 17\. What are the different roles in Scrum?
 
 The three scrum roles i.e. Scrum Master, Product Owner and Team should be explained with the details of few primary responsibilities of each role. You can add more details as mentioned below for a particular depending on the role you are getting interviewed for.
 
@@ -134,7 +134,7 @@ The three scrum roles i.e. Scrum Master, Product Owner and Team should be explai
 
 **Scrum master –** Scrum master is the leader and the coach for the scrum team who checks whether the scrum team is executing committed tasks properly. He is also responsible to increase the efficiency and productivity of the team so that they can achieve the sprint goal effectively.
 
-#### 18\. What are the responsibilities of a Scrum Master?
+##### 18\. What are the responsibilities of a Scrum Master?
 
 Answer: Key responsibilities of a Scrum Master involves:
 
@@ -148,7 +148,7 @@ Answer: Key responsibilities of a Scrum Master involves:
 * Resolution of conflicts and impediments
 * Communication and reporting
 
-#### 19\. What are different ceremonies and their importance in Scrum?
+##### 19\. What are different ceremonies and their importance in Scrum?
 
 *Scrum planning, Scrum – Daily stand up, Scrum review & scrum retrospective ceremonies should be clearly expressed with the purpose of the ceremony. It’s important to remember the time-boxing of the ceremonies for a standard 4 weeks of Sprint or as per the Sprint you have used in your projects.
 
@@ -156,11 +156,11 @@ Answer: Key responsibilities of a Scrum Master involves:
 
 Agile testing is the software development practice using practices of agile software development. In an interview for the Agile job, your interviewer can ask agile testing questions, so have a look at the agile testing interview questions.
 
-#### 20\. What do you understand by the term Agile testing?
+##### 20\. What do you understand by the term Agile testing?
 
 Answer: Agile testing is a software testing practice that is fully based on the agile principles of software development. It is an iterative methodology where the requirements are the outcome of collaboration between the product owner and team. The agile principles and applications are applied to meet the customer requirements by successful completion of the project.
 
-#### 21\. State some major principles of Agile testing
+##### 21\. State some major principles of Agile testing
 
 Answer: Some major principles of Agile testing are
 
@@ -175,7 +175,7 @@ Answer: Some major principles of Agile testing are
 * Error-free clean node
 * Collective work
 
-#### 22\. What are the skills of a good Agile Tester?
+##### 22\. What are the skills of a good Agile Tester?
 
 Answer: An agile tester is one who implements agile software development principles for software testing. Followings are the skills of a good agile tester
 
@@ -187,11 +187,11 @@ Answer: An agile tester is one who implements agile software development princip
 
 ![Top 40 Agile Scrum Interview Questions - The Scrum Team accountability](../images/Accountability_Infographic.jpg)
 
-#### 23\. What do you understand by the term “Scrum of Scrums”?
+##### 23\. What do you understand by the term “Scrum of Scrums”?
 
 Answer: Very common question. Consider a case to understand the meaning of the term scrum of the scrums. Let us assume an active project on which seven teams are currently working. The number of members of each team is also seven. Each team is responsible to lead its own scrum meeting. But, in order to coordinate and communicate with different teams, it is required to organize a separate scrum meeting. The scrum meeting organized to hold a coordination between scrum teams is known as the scrum of scrums. There is one team leader from every team, known as ambassador, who is responsible to represent his team in the scrum of scrums.
 
-#### 24\. Scrum is an Agile framework, right? Name a few other Agile frameworks.
+##### 24\. Scrum is an Agile framework, right? Name a few other Agile frameworks.
 
 Answer: Yes, Scrum is an Agile framework. Few other Agile frameworks are:
 
@@ -201,7 +201,7 @@ Answer: Yes, Scrum is an Agile framework. Few other Agile frameworks are:
 
 While answering this type of Agile Scrum interview questions please note that name the frameworks you are familiar with or have followed.
 
-#### 25\. Explain some common metrics for Agile
+##### 25\. Explain some common metrics for Agile
 
 Answer: You may definitely come across agile scrum interview questions regarding agile metrics. The question may be related to a particular agile metric or explaining all the metrics. So, the detailed description of some common metrics for Agile is as follows:
 
@@ -221,15 +221,15 @@ Answer: You may definitely come across agile scrum interview questions regarding
 
 **Sprint Burn Down Metric** - The sprint burndown chart is a graph to represent the number of non-implemented or implemented sprints during as Scrum cycle. This metric helps to track the work completed with the sprint.
 
-#### 26\. Is it ever suggested to use waterfall over Scrum? If yes, explain when
+##### 26\. Is it ever suggested to use waterfall over Scrum? If yes, explain when
 
 Yes, sometimes it is suggested to use a waterfall model over Scrum. It is done when the customer requirements are simple, well-defined, fully understood, predictable, and are not subjected to change until the completion of the project. It may the case that you would haven’t ever used waterfall over Scrum but you need to prepare for such Agile Scrum interview questions.
 
-#### 27\. Why does Scrum encourage the use of automated testing for projects?
+##### 27\. Why does Scrum encourage the use of automated testing for projects?
 
 Answer: Scrum encourages the use of automated (automated performance or automated regression) testing to make the fastest possible delivery of the project. While answering this question, you may explain some tools that you have used for automated testing.
 
-#### 28\. What do you know about “Planning Poker” technique?
+##### 28\. What do you know about “Planning Poker” technique?
 
 Answer: Planning poker, also known as Scrum Poker, is a card-based agile technique that is used for planning and estimation. To start a session of planning poker technique, the agile user story is read by the product owner. The steps performed in the poker planning technique are –
 
@@ -247,7 +247,7 @@ There are many tools online you can use for planning poker. I suggest to use:
 
 In this section, the questions will be related to the experience you have in agile or scrum. Prepare yourself with the data of few of your old projects when answering these experience-based agile scrum interview questions.
 
-#### 29\. Name some methodologies and development where you have used the Agile model
+##### 29\. Name some methodologies and development where you have used the Agile model
 
 Answer: While answering this type of agile scrum interview questions, keep in mind to mention those methodologies that are familiar with. Some of the methodologies and development where the Agile model can be used are:
 
@@ -256,23 +256,23 @@ Answer: While answering this type of agile scrum interview questions, keep in mi
 * Dynamic development
 * Feature-driven development
 
-#### 30\. Share your experience as a Scrum Master/Product Owner/Agile team member and what were your primary responsibilities?
+##### 30\. Share your experience as a Scrum Master/Product Owner/Agile team member and what were your primary responsibilities?
 
 Answer: Here you have to explain your project details where you worked in Scrum team and defining your role with the responsibilities you held. The trick in this question is whether while explaining you are showing self-organizing and self-motivational team. Also, the interviewer will try to judge how in depth you have worked in the agile/scrum environment based on your explanation.
 
-#### 31\. What was the length of sprints/iterations in your project?
+##### 31\. What was the length of sprints/iterations in your project?
 
 Answer: This is probably the most common question in agile interviews. The idea here is to judge in which kind of environment you have worked. There will be definitely follow up question like was this length fixed in the beginning and never changed? Have you tried with more than this length or less than that?
 
-#### 32\. How have you done user story mapping & estimation of stories in your projects?
+##### 32\. How have you done user story mapping & estimation of stories in your projects?
 
 Answer: This question is to under how you have done story writing, mapping, and estimation. Have you used any estimation technique like planning poker, t-shirt, sizing etc? Whatever technique you used in your project just mention it very clearly.
 
-#### 33\. What is the biggest challenge you faced in your project while handling the Scrum team members?
+##### 33\. What is the biggest challenge you faced in your project while handling the Scrum team members?
 
 Answer: This question is pure to judge your experience. The better you articulate your challenges working in agile better it will be. Challenges generally faced in the initial stages of scrum is stabilizing the velocity, team members conflicts, sticking to time-boxing etc..
 
-#### 34\. Have you ever performed the removal of impediments as a scrum master on behalf of scrum team?
+##### 34\. Have you ever performed the removal of impediments as a scrum master on behalf of scrum team?
 
 Answer: As the scrum master acts as a coach for his team, he should motivate his team to perform every task. Although he can remove impediments on behalf of scrum team but he should not do this. For a scrum master the recommendation is not to over pamper nor overrule the team. There may be something when the team can face failure, at that time the scrum master should help them. He should guide them with an appropriate method t0 get out of the problem. Scrum master should prompt his team members to become independent enough to face problems and take a decision by themselves.
 
@@ -280,7 +280,7 @@ Answer: As the scrum master acts as a coach for his team, he should motivate his
 
 Whatever is the field of job, interviewers prefer to ask one or more comparative or difference-based questions. So, here we represent some comparative agile scrum interview questions.
 
-#### 35\. What is the difference between the agile & traditional way of working?
+##### 35\. What is the difference between the agile & traditional way of working?
 
 Answer: This question is to judge whether one is aware of the environment of the agile way of working. Here the answer covers few or all of below:
 
@@ -289,7 +289,7 @@ Answer: This question is to judge whether one is aware of the environment of the
 * Progress is measured with % completion traditionally whereas working software is the measure of progress in agile
 * Project Manager as a central controlling authority is traditionally driving the project whereas Self-motivated and self-organizing teams drive the projects in agile
 
-#### 36\. What is the difference between Sprint Planning Meeting and Sprint Retrospective Meeting?
+##### 36\. What is the difference between Sprint Planning Meeting and Sprint Retrospective Meeting?
 
 Answer: The difference between Sprint Planning Meeting and Sprint Retrospective Meeting is as follows:
 
@@ -297,13 +297,13 @@ Answer: The difference between Sprint Planning Meeting and Sprint Retrospective 
 
 **Sprint Retrospective Meeting –** A meeting in which all the Scrum roles (product owner, scrum team, and scrum master) have a discussion about the good part of the sprint, the bad part of the sprint, and the sprint improvements is known as sprint retrospective meeting. This meeting that is held at the sprint review meeting or at the end of the sprint; it lasts for 2-3 hours.
 
-#### 37\. How is an agile testing methodology different from other testing methodologies?
+##### 37\. How is an agile testing methodology different from other testing methodologies?
 
 Answer: Agile scrum interview questions may include a number of questions from agile testing. Let’s understand how you can answer such questions.
 
 The agile testing methodology involves the division of the whole testing process into multiple small segments of codes. In every step, these segments of codes undergo testing. There are a number of additional processes involved in agile testing methodologies such as team communication, strategic modifications for optimal results and many others.
 
-#### 38\. What is the difference between agile & scrum?
+##### 38\. What is the difference between agile & scrum?
 
 Answer: This question will test whether you are aware of a broader picture of agile and its different frameworks or flavors. Below image will help you explain this answer where you can say agile is an umbrella of values and principles and under it, one of the lightweight frameworks is called Scrum.
 
@@ -313,11 +313,11 @@ Answer: This question will test whether you are aware of a broader picture of ag
 
 Certifications have become very important these days. Although it’s not compulsory to have a certification for any job position it demonstrates your skills to the employers. So, interviewers include these certification-related agile scrum interview questions in an agile scrum interview.
 
-#### 39\. Do you have a Scrum Master certification?
+##### 39\. Do you have a Scrum Master certification?
 
 This question may seem awkward to you but it is one of the most popular Agile Scrum interview questions. If an interviewer asks this question, it doesn’t mean that a certification is must for the job position. Just be confident while answering whether you have a scrum master certification or not. If you have a certificate as scrum master, just share the details of your certification like certification exam, score obtained, and the year of passing the certification exam. In case you don’t have a certification, mention and highlight your experience in the particular field. Also, let the interviewer know if you are planning to invest in the certification in the near future.
 
-#### 40\. Do you hold any agile certification? Why did you choose this certification?
+##### 40\. Do you hold any agile certification? Why did you choose this certification?
 
 Answer: Agile and scrum certifications are hot in the market and organizations are expecting the candidates to hold one or more out of it. Certifications generally looked by organizations are:
 
@@ -331,7 +331,7 @@ If you have any of these certifications, showcase it here in a big manner. Due t
 
 ### Some Other Important Interview Questions
 
-#### 1\. When can you say your story is ready to develop/groom enough to deliver?
+##### 1\. When can you say your story is ready to develop/groom enough to deliver?
 
 **Answer:** Ready is a stable state of Scrum that is linked to a user story. As per the Definition of Ready (DoR), a user story has to satisfy some conditions before picking it up for a sprint i.e. to be in the ready state. So, the conditions that are essential for the development/grooming of a user story specify if the user story is ready to develop/groom enough to deliver or not.
 
@@ -353,7 +353,7 @@ The conditions for the user story are defined by scrum master in coordination wi
 * resolved all the external blocking dependencies before starting the sprint
 * The resources/team have all the skills required to deliver the sprint
 
-#### 2\. How do you manage if the story is high priority and resources left before last day of sprint completion?
+##### 2\. How do you manage if the story is high priority and resources left before last day of sprint completion?
 
 **Answer**: The answer to this question will fully depend on the number of resources left.
 
@@ -366,7 +366,7 @@ In case, more or all the members leave just before a day of the sprint completio
 * Analyze the amount of pending work and its impact on the overall sprint.
 * Check if you can manage the situation and finish the task by yourself or try to get some other resources to work. (Although this won’t be feasible as you will have to first explain everything about the sprint and task done to the new team; of course, it won’t be possible in a day.) So, if you can’t manage to complete the sprint by yourself, it’s better to tell this to your product owner. You can ask him to give some more time to complete the sprint, so you can get a new team or get it done by yourself by working extra hours.
 
-#### 3\. As a scrum project manager, what are your responsibilities?
+##### 3\. As a scrum project manager, what are your responsibilities?
 
 **Answer**: Firstly, I would like to correct the question as there is no project manager role in scrum i.e. Scrum Project Manager is not a defined role. The responsibilities of a project manager are split between the scrum master, product owner, and the development team.
 
@@ -382,7 +382,7 @@ Scrum Master is a facilitator who is responsible to manage the development teams
 * Motivating team not to be distracted by the external factors
 * Helping team to improve the dynamics to reach the goal
 
-#### 4\. How (What are the parameters) to choose the number of resources required to your scrum team?
+##### 4\. How (What are the parameters) to choose the number of resources required to your scrum team?
 
 **Answer**: The team members are the resources to build a scrum team. And the scrum guide recommends that the development team size should be between 3 and 9 (7 +/- 2) without giving any context or reasons for this.
 

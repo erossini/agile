@@ -69,6 +69,18 @@ So, MVP is based on Lean startup philosophy and implies the iterative process of
 
 ## Example of MVP
 
-- AirBnB
-- Facebook
-- Virgin Airlines
+Let me tell you some stories behind successful services that are well known these days and how they started with their minimum viable product.
+
+### AirBnB
+
+Nowadays, everybody knows this brand. AirBnB started as a concierge MVP. Back in 2017, there was a great design conference in San Francisco and the AirBnB team decided to offer their cheap accommodations during this event and posted the information on a simple website. Within a short period of time, 3 guests were interested in paying for this minimum viable service.
+
+They supported the market inside that potential customers would be willing to pay to stay at someone else's house rather than in a hotel.
+
+### Facebook
+
+In late 2004, Facebook was the definition of MVP on social media. Users had a simple profile and a great opportunity to connect with their group mates. This one feature was enough to provide an awesome boost to a small project into one of the largest public tech companies in history.
+
+### Virgin Airlines
+
+Virgin Airline is one of the largest British airlines operating internationally that was established and is owned by [Richard Branson](https://en.wikipedia.org/wiki/Richard_Branson). So, what was the minimum viable product for Virgin Airlines? It was just one route and one plane flying between Gatwick and Newark.

@@ -4,7 +4,7 @@
 
 * [Waterfall](./waterfall/waterfall.md)
 
-*  [Agile](./agile/index.md)
+* [Agile](./agile/index.md)
   - [How was born](./agile/how-was-born.md)
   - [Manifesto explained](./agile/manifesto.md)
   - [Principles](./agile/principles.md)
@@ -23,6 +23,11 @@
     -[Vision](./agile/vision.md)
   -[Burn down chart](./agile/burnchart.md)
   -[Minimum Viable Product](./agile/mvp.md)
+  -[Velocity](./agile/velocity.md)
+  -[Estimation](./agile/estimation.md)
+  -[Planning poker](./agile/planning-poker.md)
+
+* [Scrum](./scrum/intro.md)
 
 * [Resources](./resources/index.md)
   - [Top Scrum Interview Questions](./resources/top-questions.md)

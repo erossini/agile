@@ -78,7 +78,7 @@ Lastly, acceptance criteria **should provide a user perspective**. This is a ver
 > - Everyone must understand
 > - Should provide user perspective
 
-#### Who is Responsible for Writing Acceptance Criteria?
+##### Who is Responsible for Writing Acceptance Criteria?
 
 There might be a couple of questions for which would be looking and answer. The first one is **who is responsible for writing acceptance criteria?** So, what you need anyone on the cross-functional team could write acceptance criteria for user stories. Usually, it is the product owner or manager who is responsible for writing acceptance criteria or at least facilitating the discussion about it.
 
@@ -88,11 +88,11 @@ Generally speaking, the product owner is primary responsible of the content of a
 
 It is always a good idea to leave this responsibility with product owner or business analyst. Once the initial draft is created, the product owner or the business analyst can enhance the requirement from the input from the member or any other external source. 
 
-#### When Should User Story Acceptance Criteria Be Written?
+##### When Should User Story Acceptance Criteria Be Written?
 
 Now, **when should user story acceptance criteria be written?** At the very latest acceptance criteria should be defined before development begins. Otherwise, you will miss many of the benefits of having it in the first place.  
 
-#### How Should You Format User Story Acceptance Criteria?
+##### How Should You Format User Story Acceptance Criteria?
 
 Now, **how should you format user story acceptance criteria?** There is no single right or wrong to write acceptance criteria for a user story. Ultimately, you need to establish a format and procedure for creating acceptance criteria that consistently works for your team.
 
