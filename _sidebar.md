@@ -28,6 +28,11 @@
   -[Planning poker](./agile/planning-poker.md)
 
 * [Scrum](./scrum/intro.md)
+  - [3 pillars](./scrum/pillars.md)
+  - [Scrum team](./scrum/scrum-team.md)
+    - [Product owner](./scrum/product-owner.md)
+    - [Development team](./scrum/development-team.md)
+    - [Scrum master](./scrum/scrum-master.md)
 
 * [Resources](./resources/index.md)
   - [Top Scrum Interview Questions](./resources/top-questions.md)
