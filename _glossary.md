@@ -46,7 +46,7 @@ Customer development is a four-step framework that provides a way to use a scien
 ##### Daily Meeting
 The daily meeting is one of the most commonly practiced Agile techniques and presents opportunity for a team to get together on a regular basis to coordinate their activities.
 
-##### Definition of Done
+##### Definition of done
 The definition of done is an agreed upon list of the activities deemed necessary to get a product increment, usually represented by a user story, to a done state by the end of a sprint.
 
 ##### Definition of Ready
