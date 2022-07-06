@@ -45,6 +45,10 @@
     - [Increment](./scrum/increment.md)
   - [Advantages and disadvantages](./scrum/pros-cons.md)
 
+* [Kanban](./kanban/index.md)
+  - [Kanban board](./kanban/kanban-board.md)
+  - [Finding inefficiencies/issues in the process](./kanban/process-inefficiencies.md)
+
 * [Resources](./resources/index.md)
   - [Top Scrum Interview Questions](./resources/top-questions.md)
 
