@@ -49,6 +49,13 @@
   - [Kanban board](./kanban/kanban-board.md)
   - [Finding inefficiencies/issues in the process](./kanban/process-inefficiencies.md)
 
+* [Tools](./tools/index.md)
+  - [Azure DevOps](./tools/azure-devops/index.md)
+    - [Basic process](./tools/azure-devops/basic-process.md)
+    - [CMMI process](./tools/azure-devops/cmmi-process.md)
+    - [Agile process](./tools/azure-devops/agile-process.md)
+    - [Scrum process](./tools/azure-devops/scrum-process.md)
+
 * [Resources](./resources/index.md)
   - [Top Scrum Interview Questions](./resources/top-questions.md)
 
