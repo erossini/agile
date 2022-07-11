@@ -5,7 +5,7 @@ You need to be able to ask: is this agile? If you are ever in doubt about whethe
 1. Does what we are doing at this moment support the early and continuous delivery of valuable software?
 2. Does our process welcome and take advantage of change?
 3. Does our process lead to and support the delivery of working functionalities? Are the developers and the product owner working together daily?
-4. Are customers and business stakeholders working closely with th project team?
+4. Are customers and business stakeholders working closely with the project team?
 5. Does our environment give the development team the support it needs to get the job done?
 6. Are we communicating face to face via Microsoft Teams (or other software) more than through phone and email?
 7. Are we measuring progress by the amount of working functionality produced?
@@ -15,6 +15,6 @@ You need to be able to ask: is this agile? If you are ever in doubt about whethe
 11. Is this development team self-organizing and self-managing? Does it have the freedom to succeed?
 12. Are we reflecting at regular intervals and adjusting our behavior accordingly?
 
-If you answered **Yes** to all these questions, you are really working on an Agile project.
+If you answered **Yes** to all these questions, you are really working in an Agile environment.
 
 If you answered **No** to any of these questions, what can you do to change that answer to **Yes**?

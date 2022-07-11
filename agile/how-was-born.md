@@ -1,6 +1,6 @@
 # How Agile was born
 
-In 2001, a group of software developers gathered in the picturesque ski resort town of Snowbird, Utah, to discuss emerging approaches to their trade. They hit on some ideas that they felt were good enough to commit to paper. They certainly had ambitions. But they had no clue how far their words would go.
+In 2001, a group of software developers gathered in a ski resort in the town of Snowbird, Utah, to discuss emerging approaches to their trade. They hit on some ideas that they felt were good enough to commit to paper. They certainly had ambitions. But they had no clue how far their words would go.
 
 ## Agile Manifesto
 

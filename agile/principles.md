@@ -17,14 +17,14 @@ In addition to the [Agile Manifesto](./manifesto.md) there are 12 [Principles](h
 
 ![Agile Principles Icons](../images/agile-principles-icons.png)
 
-So, in a nutshell, Agile is a mindset described by four values and the principles of the Agile Manifesto, and that manifested an unlimted number of practices, tools and processes. Implementing the practices, tools and processes without the Agile mindset, values and principles of the Agile Manifesto is not Agile.
+So, in a nutshell, Agile is a mindset described by four values and the principles of the Agile Manifesto, and that manifested an unlimited number of practices, tools and processes. Implementing the practices, tools and processes without the Agile mindset, values and principles of the Agile Manifesto is not Agile.
 
 ![Agile mindset](../images/agile-mindset.png)
 
-Let's try to apply this through an example. 
+Let's try to apply this through an example.
 
 ## Example
 
-Consider a new project that is in discussion on how to get the requirements. The suggested approach, if you think of it, is to require that the business owner write down all the requirements and sign of them before beginning the work of a team that is falling agile would see while that might work, isn't that inconsistent with our belief that we should value our customer collaboration over contract negotiation?
+Consider a new project that is in discussion on how to get the requirements. The suggested approach is to require that the business owner write down all the requirements and sign off them before beginning the work of the development team. Following Agile would see while that might work. Isn't that inconsistent with our belief that we should value our customer collaboration over contract negotiation?
 
-And doesn't it violate our principle that says the developers should be working with the business owners every day? So effectively, what I wat to see over here is that a team that is following Agile, they may be making hundreds of substitutions each week and that's how the decisioning should be.
+And doesn't it violate our principle that says the developers should be working with the business owners every day? So effectively? What I want to see over here is that a team that is following Agile may be making hundreds of substitutions each week and that's how the decisioning should be.

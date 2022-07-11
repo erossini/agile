@@ -6,21 +6,21 @@ First, the Agile Manigesto in short is the collection of **values** and **princi
 
 ## Individuals and interactions over processes and tools
 
-This is the center of Agile. The researches show an increase of performances of up 50 times when we get individuals and interactions right. Valuing people more highly then processes and tools is easy to understand becuase it is the people who respond to business needs and drive the development process.
+This is the center of Agile. The researches show an increase of performances of up 50 times when we get individuals and interactions right. Valuing people more highly then processes and tools is easy to understand because it is the people who respond to business needs and drive the development process.
 
-If the process or tools drive development, the team is less responsive to change and less likely to meet customers needs.
+If the processes or tools drive development, the team is less responsive to change and less likely to meet customers needs.
 
 Communication is an example of the difference between valuing individuals versus process. In case of individuals, communication is fluid and happens when a need arises. In the case of process, communication is scheduled and requires specific content. Communication definitely needs to be free flowing and continuous, non defined and scheduled. Working in closed off silos is not what Agile is all about.
 
 ## Working software over comprehensive documentation
 
-Let's understand this by assuming you wrote a functional specificion document that came to 50 pages long, it outlined all functional behaviour of the site we were building, including wire frames.
+Let's understand this by assuming you wrote a functional specification document that came to 50 pages long, it outlined all functional behavior of the site we were building, including wire frames.
 
 It took a lot of time to create and guess what? Things changed.
 
-The functional specification you wee working became more and more out of date. It took time to update. So, you ended up ditching it and just working with the site itself, which highlights getting stuff done, is better than talking or writing about getting stuff done.
+The functional specification you were working became more and more out of date. It took time to update. So, you ended up ditching it and just working with the site itself, which highlights getting stuff done, is better than talking or writing about getting stuff done.
 
-While Agile does not eliminate documentation, bui it streamlines it in a form that gives the developers what it needed to do the work. The Agile manifesto values documentation, but it values working software more.
+While Agile does not eliminate documentation, but it rethinks a form that gives the developers what it needed to do the work. The Agile manifesto values documentation, but it values working software more.
 
 ## Customer collaboration over contract negotiation
 

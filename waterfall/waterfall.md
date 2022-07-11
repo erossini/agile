@@ -1,8 +1,8 @@
 # Waterfall
 
-The waterfall process was first time introduced by _Dr. Winston W. Rice_ on a paper published in 1970. In simple words, the **Waterfall** Model is a _software development process_. The waterfall process emphasizes these principles that a logical step should be taken in all the sequential steps of the Software Development Life Cycle (SDLC), such as the steps coming down from the rising waterfall process. 
+The waterfall process was introduced for the first time by _Dr. Winston W. Rice_ on a paper published in 1970. In simple words, the **Waterfall** Model is a _software development process_. The waterfall process emphasizes these principles that a logical step should be taken in all the sequential steps of the Software Development Life Cycle (SDLC), such as the steps coming down from the rising waterfall process.
 
-The logical nature of the sequencing process used in the waterfall method cannot be denied, and it is common in the industry, a somewhat simple design in the beginning. This approch has a solid strcuture:
+The logical nature of the sequencing process used in the waterfall method cannot be denied, and it is common in the industry, a somewhat simple design in the beginning. This approach has a solid structure:
 
 - **requirements**: During this initial phase, the application's potential requirements procedure is analyzed in detail and written into a specific document, which is the basis for all future developments. The result is usually a document of requirements that explains what the application should do, but not how it should be done.
 - **system design** (also known as **design** or **analysis**): a complete and very detailed analysis of the system is performed to properly develop the models and business logic that will be used in the software application. Also, the architecture of the software must be define in each part and then it must be documented
@@ -34,14 +34,14 @@ While some elements in software development never change, many other things ofte
 
 ## Project Manager
 
-Who has the responsability of the project is a **Project Manager**. A succesful Project Manager has to:
+Who has the responsibility of the project is a **Project Manager**. A successful Project Manager has to:
 
 - time bounded
 - requires definitive effort
 - needs to be well planed
 - must be completed within the assigned budget
 
-In the waterfall approch the project moves to the next phase only when the previous phase is completed.
+In the waterfall approach the project moves to the next phase only when the previous phase is completed.
 
 ## Project Management
 
@@ -56,7 +56,7 @@ And as each step cascades into the next one, like water flowing down in a waterf
     * everyone will be on the same page about what to do in each phase
     * new project team members can read these documents to familiarize themselves with the project quickly 
     * you can use it as references when presenting progress reports to clients
-- _Suitable for small projects_: in smal project the requirements are deliverables are less likely to change. As the project scope is fixed, you can proceed through each development stage seamlessly.
+- _Suitable for small projects_: in small project the requirements are deliverables are less likely to change. As the project scope is fixed, you can proceed through each development stage seamlessly.
 
 ### Cons
 
@@ -70,11 +70,11 @@ In my experience, I have created a lof of different webapplication and very comp
 
 ![Example of a webapplication schema](../images/webapplication-schema.png)
 
-When I had to deploy this webapplication on a server, there were always issues with the **downtime**. Because we have to replace the code on the server or apply changes to the infrastructure, the users could experience some difficulties in using the webapplication or face a message like "This service is temporarily unavailable. We are currently performing scheluled maintenance. Normal service will be restored soon".
+When I had to deploy this webapplication on a server, there were always issues with the **downtime**. Because we have to replace the code on the server or apply changes to the infrastructure, the users could experience some difficulties in using the webapplication or face a message like "This service is temporarily unavailable. We are currently performing scheduled maintenance. Normal service will be restored soon".
 
 ![Service unavailable](../images/service-unavailable.jpg)
 
-To avoid those issues, it was necessary to find new ways to deploy new software without creating issues to the users but not always was avoidable. For this reason, usually, we organized a scheluded maintenance to communicate to all the users, where possible. 
+To avoid those issues, it was necessary to find new ways to deploy new software without creating issues to the users but not always was avoidable. For this reason, usually, we organized a scheduled maintenance to communicate to all the users, where possible. 
 
 Think in our modern world. You want to buy from Amazon at any time products or your shopping, see your bank statement, play with your Xbox, read your emails...
 
