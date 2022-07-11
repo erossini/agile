@@ -33,4 +33,4 @@ How do we decide what limits to set? Teams have to sit together, discuss and com
 
 | No. | Situation                                                               | Suggestion
 |-----|-------------------------------------------------------------------------|----------------------------------|
-| 1   | Too much work in progress(WIP) on a single stage - **Limiting the WIP** | More team members need to work on that stage(for e.g. testing stage in this scenario) instead of any of the previous stage |
+| 1   | Too much work in progress (WIP) on a single stage - **Limiting the WIP** | More team members need to work on that stage(for e.g. testing stage in this scenario) instead of any of the previous stage |
