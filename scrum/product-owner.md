@@ -1,6 +1,6 @@
 # Product owner
 
-Imagine yourself as the product owner who is leading a development team. Suppose you are the product owner of Acme app. Under you is a developer team which consists of individuals who can do certain tasks. Now, your main responsibility is to maximize the total value of work done by the development team.
+Imagine yourself as the product owner who is leading a development team. Suppose you are the product owner of Acme app. Under you, there is a developer team which consists of individuals who can do certain tasks. Now, your main responsibility is to maximize the total value of work done by the development team.
 
 The practices you build for this may vary from organization to organization or person to person, but mainly this is done by ensuring transparency. One of the important things that a product owner is responsible for is maintaining the master list of pending tasks. This is also known as [product backlog](../agile/product_backlog.md), which is a **Scrum artifact**.
 

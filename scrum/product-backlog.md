@@ -10,7 +10,9 @@ Once these changes are brought to the Scrum team, the product owner add them to 
 
 ## How it is done
 
-The requirements come from the business team and they are **raw**. The requirements are not raw from the user journey perspective or the business perspective but from the technical standpoint. For example, if the requirement is to send a notification to users who have abandoned the shopping basket without making payment, from the technical side, we need to see that we have the required permission to do that. Maybe we can do it for Android app but not for iOS app but it is fine for Windows. These are some of the things which the business team may not be aware of and therefore the requirement may be wrong.
+The requirements come from the business team and they are **raw**. The requirements are not raw from the user journey perspective or the business perspective but from the technical standpoint. 
+
+For example, if the requirement is to send a notification to users who have abandoned the shopping basket without making payment, from the technical side, we need to see that we have the required permission to do that. Maybe we can do it for Android app but not for iOS app but it is fine for Windows. These are some of the things which the business team may not be aware of and therefore the requirement may be wrong.
 
 Now, the product owner needs to fill the following table for each of the requirements.
 
@@ -21,14 +23,14 @@ Now, the product owner needs to fill the following table for each of the require
 
 There are multiple columns in this table. There are columns like order number, requirement name and so on. In this table the requirement name is to be given by the business team. The requirement details are filled by the product owner after the discussion with the business, development team or any other relevant experts. Estimate business value of the requirement is also provided by the business team. Once all of this is done, the product owner discusses this with the development team to find out the estimated effort for each of these requirements in terms of hours or story points.
 
-When we have both the estimated value and the estimated effort, the product owner arranges these requirements in the order they have to be done.
+When the estimation is done for both estimated value and the estimated effort, the product owner arranges these requirements in the order they have to be done.
 
-The last check for each requirement is whether all details have been captured clearly and can be done within in one sprint time box. If everything is find, the requirements is ready to be picked up in the next print planning (and the last column is updated).
+The last check for each requirement is whether all details have been captured clearly and can be done within in one sprint time box. If everything is find, the requirements is ready to be picked up in the next [sprint planning](../scrum/sprint-planning.md) (and the last column is updated).
 
 >[!NOTE]
 > Only the business team can give the business value estimate and only the development team can give the effort estimate.
 
-Based on the estimations, the product owner decides the order of requirements. The Scrum master needs to be ensure that the entire process of backlog refinement does not take more than 10% of the capacity of the development team.
+Based on the estimations, the product owner decides the order of requirements. The [Scrum master](../scrum/scrum-master.md) needs to be ensure that the entire process of backlog refinement does not take more than 10% of the capacity of the development team.
 
 >[!NOTE]
 > Duration of backlog refinement should be less than 19% of the capacity of the development team.

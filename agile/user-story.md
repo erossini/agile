@@ -1,10 +1,10 @@
 # User story
 
-Introducing you to the first concept called **User story**. In consultation with the customer or product owner, the team divides up the work to be done into financial increments called user stories.
+Introducing you to the first concept called **User story**. In consultation with the customer or product owner, the team divides the work to be done into small increments called user stories.
 
-User stories are written in everyday language and describe a specific goal from the prospective of an individual. Along with the reason why he or she wanted a user story, it can be of one or mre sentences. The requirement in the user story needs to be sufficient enough. So, a developer can start and finish his development and a tester can test the developer code to check if it is meeting the required functionality. Lastly, the product owner can verify the desired functionality to accept the story completion.
+User stories are written in everyday language and describe a **specific goal from the prospective of an individual**. Along with the reason why he or she wanted a user story, it can be in one or more sentences. The requirement in the user story needs to be **sufficient enough**. So, a developer can start and finish his development and a tester can test the developer code to check if it is meeting the required functionality. Lastly, the [product owner](../scrum/product-owner.md) can verify the desired functionality to accept the story completion.
 
-Each story has to fulfill a requirement with a very specific **goal** or **benefit**. It is always advisable to break any story to smaller stories if it has more than one goal. Requirement of a story has to be of a complete functionality means upon completion of development, testing and acceptance. The code should be deployable for future release. In other words, each user story should be potentially shippable.
+Each story has to fulfill a requirement with a very specific **goal** or **benefit**. It is always advisable to break any story to smaller stories if it has more than one goal. Requirement of a story has to be a complete functionality for the completion of development, testing and acceptance. The code should be deployable for future release. In other words, each user story should be potentially shippable.
 
 Sizable user story as measured in **story points** to provide a business value and complexity.
 
@@ -38,7 +38,7 @@ In software development, the goal is often a new product feature targeting the e
 
 ### Role
 
-As a **role**, I want to action (so that benefit). You can see there are 3 key components over here: **role**, **action**, **benefit**. As mentioned before, a user story describes a software feature from the end users prospective. It includes it all, but does that type of user. The user should be an actual human who interacts with the system. Try to be as specific as possible when you mention the role over here. 
+As a **role**, I want to action (so that benefit). You can see there are 3 key components over here: **role**, **action**, **benefit**. As mentioned before, a user story describes a software feature from the end users prospective. It includes it all, but does that type of user. The user should be an actual human who interacts with the system. Try to be as specific as possible when you mention the role over here.
 
 >[!NOTE]
 > The development team is not a user
@@ -70,7 +70,7 @@ Criteria **should be clear and concise**. So you are writing comprehensive docum
 
 **Everyone must understand** your acceptance criteria. Your criteria is useless if the developers can't understand it. If you are unsure about whether something is clear, take the time to ask and make adjustment until things are clear to everyone.
 
-Lastly, acceptance criteria **should provide a user perspective**. This is a very important! Acceptance criteria is a means of looking at the problem from the user point of view. From a customer standpoint, it should be done in the context of a real user's experience. 
+Lastly, acceptance criteria **should provide a user perspective**. This is a very important! Acceptance criteria is a means of looking at the problem from the user point of view. From a customer standpoint, it should be done in the context of a real user's experience.
 
 > [!NOTE]
 > - Should be testable
@@ -78,21 +78,21 @@ Lastly, acceptance criteria **should provide a user perspective**. This is a ver
 > - Everyone must understand
 > - Should provide user perspective
 
-##### Who is Responsible for Writing Acceptance Criteria?
+### Who is Responsible for Writing Acceptance Criteria?
 
 There might be a couple of questions for which would be looking and answer. The first one is **who is responsible for writing acceptance criteria?** So, what you need anyone on the cross-functional team could write acceptance criteria for user stories. Usually, it is the product owner or manager who is responsible for writing acceptance criteria or at least facilitating the discussion about it.
 
 The idea behind that is to ensure that the requirements are done with customer needs in mind and to better understand customer needs than a product person. It is widely recommended to make writing acceptance criteria group activity that includes both development and quality assessment representatives.
 
-Generally speaking, the product owner is primary responsible of the content of a user story. In some cases, the business analyst gets involved to write and take the responsibility of user story content. Team members can help product owner or the business analyst to write user stories, but as a product owner or business analyst understand the business requirements and acceptance criteria are better than any other team member.
+Generally speaking, the product owner is primary responsible of the content of a user story. In some cases, the business analyst gets involved to write and take the responsibility of user story content. Team members can help product owner or the business analyst to write user stories. Although a product owner or business analyst understands the business requirements and acceptance criteria better than any other team member.
 
-It is always a good idea to leave this responsibility with product owner or business analyst. Once the initial draft is created, the product owner or the business analyst can enhance the requirement from the input from the member or any other external source. 
+It is always a good idea to leave this responsibility with product owner or business analyst. Once the initial draft is created, the product owner or the business analyst can enhance the requirement from the input from the member or any other external source.
 
-##### When Should User Story Acceptance Criteria Be Written?
+### When Should User Story Acceptance Criteria Be Written?
 
 Now, **when should user story acceptance criteria be written?** At the very latest acceptance criteria should be defined before development begins. Otherwise, you will miss many of the benefits of having it in the first place.  
 
-##### How Should You Format User Story Acceptance Criteria?
+### How Should You Format User Story Acceptance Criteria?
 
 Now, **how should you format user story acceptance criteria?** There is no single right or wrong to write acceptance criteria for a user story. Ultimately, you need to establish a format and procedure for creating acceptance criteria that consistently works for your team.
 
@@ -107,6 +107,25 @@ The acronym **INVEST** helps to remember a widely accepted set of criteria or ch
 - **V**aluable
 - **E**stimable (to a good approximation)
 - **S**mall (so as to fit within an iteration)
-- **T**estable (in principle, even if there isn’t a test for it yet)
+- **T**estable (in principle, even if there isn't a test for it yet)
 
 **Independent** means the user story should be self-contained in a way that there is no inherent dependency on another user story. **Negotiable** means user story are not explicit contracts and should leave space for discussion. **Valuable** means a user story must deliver value to our stakeholders and/or business. **Estimable** highlights that you must always be able to estimate the size of a user story. **Small** stresses on the fact that the story should not be so big as to become impossible to plan or prioritize with a certain level of certainty. The user story should be **testable** which means user story and the related description provide the necessary information to make the test development possible.
+
+## Formats
+
+The **Given/And/When/Then** format is helpful way to specify criteria:
+
+> Given some precondition When I do some action Then I expect some result
+
+When writing acceptance criteria in this format, it provides a consistent structure. Additionally, it helps testers determine when to begin and end testing for that specific work item.
+
+Sometimes it's difficult to construct criteria using the given, when, then, format. Particularly when dealing with system level user stories. In those cases, I've found that using a verification checklist works well.
+
+Another advantage to verification checklists is that they are also simple to individually mark as complete as we implement functionality.
+
+### Example
+
+**Given** the fridge is on
+**And** the door is closed And the light bulb is in working order,
+**When** I open the door,
+**Then** the light turns on

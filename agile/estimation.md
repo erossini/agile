@@ -4,27 +4,27 @@ In literal terms, the meaning of estimation means approximate calculation of som
 
 In Agile, we do estimation a little differently that tradition estimation.
 
-| Tradition estimation                | Agile estimation                           |
-|-------------------------------------|--------------------------------------------|
-| Efforts were estimated              | Business values or Complexity is estimated |
-| Unit: Hours                         | Unit: Story Points or bucket               |
-| Estimation is done in task level    | Estimation is done in user story level     |
-| Provides absolute estimate          | Provides relative estimate                 |
-| Estimates once done are not revised | Estimates are revisited in every iteration |
+| Tradition estimation                | Agile estimation                            |
+|-------------------------------------|---------------------------------------------|
+| Efforts were estimated              | Business values and Complexity is estimated |
+| Unit: Hours                         | Unit: Story Points or bucket                |
+| Estimation is done in task level    | Estimation is done in user story level      |
+| Provides absolute estimate          | Provides relative estimate                  |
+| Estimates once done are not revised | Estimates are revisited in every iteration  |
 
 In software development, traditionally, efforts were estimated to deliver functionality. Effort necessary to carry out a given development task was estimated whereas in case of Agile, we estimate business values or complexity of a user story level. So, **efforts is estimated as business values and complexity**.
 
 In tradition estimation the unit of estimation a task for its effort is hours, whereas the unit of estimating user story for its value on complexity is story points or bucket. The higher the number of points, the more effort the team believes the task will take.
 
-In traditional project management, estimation is usually task based. The project manager with the help of the team develops a work breakdown structure. Essentially, a list of tasks and then the a group of expert take a stab at estimating the number of hours each task will take, whereas estimation in Agile is feature based or user story based.
+In traditional project management, estimation is usually task based. The project manager with the help of the team develops a work breakdown structure. Essentially, a list of tasks. Then the group of experts take a stab at estimating the number of hours each task will take, whereas estimation in Agile is feature based or user story based.
 
-The next difference is that traditional estimation will deliver back a number which will signify the estimate duration to complete a particular task. It will be an absolute number. For example, that person or team gives an absolute estimation of 10 days to complete the task or feature. Focus is always on how much time it will tak to complete the work, hence the scope is always constant. In Agile, estimation is sightly different. Agile looks at things in a relative manner. It will look at the list of tasks and see whether it is large, medium or small. The focus is not on how much time it will take to complete but what bucket it goes to, whether it is small or large or medium, which eventually refrain from attaching an absolute time production of the task or use user story.
+The next difference is that traditional estimation will deliver back a number which will signify the estimate duration to complete a particular task. It will be an absolute number. For example, that person or team gives an absolute estimation of 10 days to complete the task or feature. Focus is always on how much time it will take to complete the work, hence the scope is always constant. In Agile, estimation is sightly different. Agile looks at things in a relative manner. It will look at the list of tasks and see whether it is large, medium or small. The focus is not on how much time it will take to complete but what bucket it goes to, whether it is small or large or medium, which eventually refrain from attaching an absolute time production of the task or use user story.
 
 In tradition approach, estimates once done are not revised but in Agile estimates and plans are revisited in every iteration which brings it more closely to reality.
 
 ![Estimation](../images/estimation.png)
 
-So, as you can see in the diagram, in the traditional estimation, the estimation is done in form of hours, whereas in Agile the estimation gives the relative difference. It can be in form of size, whether the small or medium, bigger or biggest, it can be T-Shirt sizing (small, medium, large, extra-large) or it can be a story point estimation which can be 1, 2, 3, 5, 8... and so on.
+So, as you can see in the diagram, in the traditional estimation, the estimation is done in form of hours, whereas in Agile the estimation gives the relative difference. It can be in form of size, whether the **small** or **medium**, **bigger** or **biggest**; it can be T-Shirt sizing (**small**, **medium**, **large**, **extra-large**) or it can be a story point estimation which can be **1**, **2**, **3**, **5**, **8**... and so on.
 
 For now, just understand that traditional estimation gives estimation in absolute terms whereas Agile estimation gives its estimation in relative terms.
 
@@ -120,7 +120,7 @@ The average gap between 2 number is around 61%. So, Fibonacci Agile estimation r
 
 #### Why use the Fibonacci sequence?
 
-So, imagine you are standing on a street in front of a building A and B, you can easily differentiate between building and see that the building B is taller than the building A. If you are looking at 2 skyscrapers where one ws 20 stories tall while the other was 21 stories, can you tell at a glance what is the tallest? 
+So, imagine you are standing on a street in front of a building A and B, you can easily differentiate between building and see that the building B is taller than the building A. If you are looking at 2 skyscrapers where one was 20 stories tall while the other was 21 stories, can you tell at a glance what is the tallest?
 
 ![Fibonacci example](../images/estimation-fibonacci-example.png)
 
@@ -140,7 +140,7 @@ When we see 1 point, it means quick to deliver and minimal complexity. When we h
 | 5      | Longer time to deliver, high complexity, likely unknowns         | Integrate with third-party API for pushing/pulling data, and link to user profiles in platform |
 | 8      | Long time to deliver, high complexity, critical unknowns         | Overhaul the layout/HTML/CSS/JS of a web application         |
 | 13     | Long time to deliver, high complexity, many critical unknowns    | Migrate application from an outdated data store to new DB technology and ORM |
-| 21     | You are doing something wrong 😉                                 |                                                             | 
+| 21     | You are doing something wrong 😉                                 |                                                             |
 
 >[!ATTENTION]
 > If any story appears to be more than 13 points, it is strongly recommended to break the story in smaller parts.

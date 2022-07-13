@@ -19,6 +19,7 @@
       - [Examples](./agile/user-story-example.md)
     - [Epic](./agile/epic.md)
     - [Initiatives](./agile/initiatives.md)
+    - [Feature](./agile/feature.md)
     - [Themes](./agile/themes.md)
     - [Relationship between key concepts](./agile/relationship.md)
     - [Product backlog](./agile/product_backlog.md)

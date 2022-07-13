@@ -1,6 +1,6 @@
 # Introduction to Scrum
 
-Scrum is the most popular framework for software development. Scrum is not complicated and it is very easy to understand. Because yt has strict rules, it is a little difficult to implement in the beginning. Slowly, it becomes a habit and it is then that it leads to increase in productivity and creativity.
+Scrum is the most popular framework for software development. Scrum is not complicated and it is very easy to understand. Because Scrum has strict rules, it is a little difficult to implement in the beginning. Slowly, it becomes a habit and it is then that it leads to increase in productivity and creativity.
 
 >[!NOTE]
 > Scrum is a process framework used to manage product development and other knowledge work.

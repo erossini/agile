@@ -5,7 +5,7 @@ Tha Agile Alliance define **velocity** as
 >[!TIP]
 > At the end of each iteration, the team adds up effort estimates associated with user stories that were completed during that iteration. This total is called velocity.
 
-So, velocity in Agile is user as a planning tool to measure how much work can be completed in each iteration. It is widely used as a calibration tool to help development teams create accurate and efficient timelines. Velocity is a single calculation, measuring **units of work** completed in a given **time frame**.
+So, velocity in Agile is used as a planning tool to measure how much work can be completed in each iteration. It is widely used as a calibration tool to help development teams to create accurate and efficient timelines. Velocity is a single calculation, measuring **units of work** completed in a given **time frame**.
 
 Units of work can be measured in several ways, including hours, user stories or story points. The same applies to time frame. It is typically measured in iterations, sprints or weeks. At the end of each iteration, the team sums up the estimate associated with user stories that were completed during that iteration and this total is called **velocity**.
 
@@ -25,7 +25,7 @@ So, let's assume an Agile team has started working on a sprint which has 3 stori
 | B            | 5            | Incomplete  |
 | C            | 8            | Completed   |
 
-> Velocity = 3 + 8 = 11 Story point / Sprint
+> Velocity = 3 + 8 = 11 Story point
 
 The Agile team is planning to complete the A story in 3 point, story B in 5 and C in 8. Assuming we are at the end of an iteration. The stories A and C are 100% completed but story B is only 70% completed. Agile team generally acknowledge only 2 levels of completion, either 0% or 100%. Therefore, story B is not counted toward velocity. Since we know that velocity of a sprint is the sum of story point of the only completed stories, the velocity in the example is 11 (sum of the story points of stories A and C).
 
@@ -37,14 +37,14 @@ Now, assume we have completed other 2 sprints and the story points per sprint is
 | 2      | 13           |
 | 3      | 6            |
 
-Now, if you look at the average velocity, it is 10 story points (sum the story points of the 3 sprints divided by 3 (11+13=6)/3=10).
+Now, if you look at the average velocity, it is 10 story points (sum the story points of the 3 sprints divided by 3 (11+13+6)/3=10).
 
 >[!NOTE]
 > You need to successfully completed at least 3 sprints to get a better visibility and plan future sprints
 
-Once the average velocity is calculated, it wil provide you reference on how much user stories can be completed in each sprint in the future.
+Once the average velocity is calculated, it will provide you reference on how much user stories can be completed in each sprint in the future.
 
-In the example above, the project manager should pick up for next sprints not more that 10 story points. With the help of this average velocity, you can be assured that you are not over or under planning your future sprint. 
+In the example above, the project manager should pick up for next sprints not more that 10 story points. With the help of this average velocity, you can be assured that you are not over or under planning your future sprint.
 
 Also, you can user average velocity for planning releases. For example, if you are a product owner, you need to know when you can deliver all the features. If you know the team's velocity, you can put all user stories from product backlog and sprint to calculate how many sprint it will take to finish all the features.
 
@@ -100,30 +100,35 @@ Q3. Suppose the user stories remaining represent a total of 160 story points, in
 ### Solution
 
 #### Solution for Q1
-Velocity of SPRINT 1: 24 Story points 
+
+Velocity of SPRINT 1: 24 Story points
+
 - Total user stories completed in sprint 01 = 3 user stories
 - Total story points completed in sprint 01 = 3 x 8 story points -> 24 story points
 
-Velocity of SPRINT 2: 32 Story points 
+Velocity of SPRINT 2: 32 Story points
+
 - Total user story completed in sprint 02 = 4 user stories
-- Total story points completed in sprint 02 = 4×8 story points->32 story points
+- Total story points completed in sprint 02 = 4 × 8 story points -> 32 story points
 
 Velocity of SPRINT 3: 40 Story Points
+
 - Total user story completed in sprint 03 = 5 user stories
-- Total story points completed in sprint 03 = 5×8 story points->40 story points
+- Total story points completed in sprint 03 = 5 × 8 story points -> 40 story points
 
 #### Solution for Q2
-Once you know the velocity of sprint 1, 2 and 3, calculate the average of them. 
+Once you know the velocity of sprint 1, 2 and 3, calculate the average of them.
+
 - Sprint 01: 24
 - Sprint 02: 32
 - Sprint 03: 40
 
-So, your average velocity of sprint is: 24+32+40/3 = 32 Story Points/Sprint
+So, your average velocity of sprint is: 24 + 32 + 40 / 3 = 32 Story Points/Sprint
 
 #### Solution for Q3
 Total Story points against remaining User Stories (A): 160
 
-Average Velocity (B): 32 Story Points/ Sprint
+Average Velocity (B): 32 Story Points / Sprint
 
-Forecast for the remaining effort for the Project: A/B = 160/32
+Forecast for the remaining effort for the Project: A / B = 160 / 32
  = 5 Sprints with each sprint of 32 story points

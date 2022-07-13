@@ -18,14 +18,15 @@ flowchart TD
     D-->S3["User Story/Task 1"]
     S3-->US2["Subtask 1"]
     S3-->US3["Subtask 2"]
-    E-->S4["User Story/Task 1"]
+    E-->F["Feature 1"]
+    F-->S4["User Story/Task 1"]
     E-->S5["User Story/Task 2"]
     E-->S6["User Story/Task 3"]
     S4-->US4["Subtask 1"]
     S4-->US5["Subtask 2"]
 ```
 
-So, you can see the hierarchy in the diagram. Initiatives are broken down into [epic](../agile/epic.md) and epic are brokwn down into a [user stories](../agile/user-story.md) or **task**. 
+So, you can see the hierarchy in the diagram. Initiatives are broken down into [epic](../agile/epic.md) and epic are brokwn down into a [user stories](../agile/user-story.md) or **task**.
 
 >[!NOTE]
 > - Initiatives are collections of epics that drive toward a common goal

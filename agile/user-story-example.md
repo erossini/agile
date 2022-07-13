@@ -2,7 +2,7 @@
 
 > As a [**customer**], I want [**shopping cart feature**] so that [**I can easily purchase items online**].
 
-So, the end user over here is the customer. This story is being written from the perspective of an end user to the role as customer. So, in the **action**, the intent is clearly defined, which is a shopping cart feature and it is implementation free. That means, it doesn't define any technical part. It just defines the intent and what actually the user is trying to achieve. Coming to the **benefit**, it defines the bigger picture nd the overall benefit the user is trying to achieve, which is through this shopping cart feature, they can easily purchase items online.
+So, the end user over here is the customer. This story is being written from the perspective of an end user to the role as customer. So, in the **action**, the intent is clearly defined, which is a shopping cart feature and it is implementation free. That means, it doesn't define any technical part. It just defines the intent and what actually the user is trying to achieve. Coming to the **benefit**, it defines the bigger picture and the overall benefit the user is trying to achieve, which is through this shopping cart feature, they can easily purchase items online.
 
 > As a [**manager**], I want to [**generate a report**] so that [**I can understand which departments need more resources**].
 >
@@ -10,7 +10,7 @@ So, the end user over here is the customer. This story is being written from the
 >
 > As a [**manager**], I want to be able to [**understand my colleagues progress**], so I can [**better report our success and failures**].
 
-## INVEST 
+## INVEST
 
 The acronym **INVEST** helps to remember a widely accepted set of criteria or checklist to assess the quality of a user story. If a user story fails to meet one of these criteria, the team may want to reword it or ever consider rewrite it.
 

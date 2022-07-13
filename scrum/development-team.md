@@ -2,7 +2,7 @@
 
 Development team is a group of people who work on the requirements and deliver a potentially releasable product at the end of each sprint. **Sprint** is another scrum event. Basically, I will release an upgrade to the previous product with new features that is covering some of the requirements from the [product backlog](../agile/product_backlog.md) every month. 
 
-This regular interval of a month is called **sprint** and this is the time in which the development team gets to create new releasable product covering some of the requirements from the product backlog.
+This regular interval of a month (ore less) is called **sprint** and this is the time in which the development team gets to create new releasable product covering some of the requirements from the product backlog.
 
 As far as authorities concerned, organization must give the freedom to organize and manage their own work. What is to be done is decided by the [product owner](../scrum/product-owner.md).
 

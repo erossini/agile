@@ -2,7 +2,7 @@
 
 # Welcome to the Agile documentation!
 
-This is a collection of document about Agile in general but in particular about Scrum, Kanban and Extreme Programming (XP). At the moment, I don't talk about other framework like SAFe, Kata, DAD or LeSS.
+This is a collection of document about Agile in general but in particular about Scrum, Kanban and Extreme Programming (XP). At the moment, I don't talk about other framework like Scaled Agile Framework (SAFe), Kata, DAD or LeSS.
 
 I'm putting together this documentation to help me and my teams to understand this methodologies better and create a reference and resources for everybody.
 
