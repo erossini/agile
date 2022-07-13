@@ -10,8 +10,10 @@
   - [Principles](./agile/principles.md)
   - [Agile Litmus Test](./agile/agile-test.md)
   - [What Agile is not?](./agile/is-not-agile.md)
+  - [Environment](./agile/environment.md)
   - [Waterfall vs Agile](./agile/vs-waterfall.md)
   - [Advantages & Disadvantages](./agile/pros-cons.md)
+  - [Key roles and responsibilities](./agile/roles-responsibilities.md)
   - [Key concepts](./agile/key-concepts.md)
     - [User story](./agile/user-story.md)
       - [Examples](./agile/user-story-example.md)
@@ -44,6 +46,7 @@
     - [Sprint backlog](./scrum/sprint-backlog.md)
     - [Increment](./scrum/increment.md)
   - [Advantages and disadvantages](./scrum/pros-cons.md)
+  - [Roles and responsibilities](./scrum/roles-responsibilities.md)
 
 * [Kanban](./kanban/index.md)
   - [Kanban board](./kanban/kanban-board.md)

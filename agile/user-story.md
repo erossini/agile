@@ -9,7 +9,7 @@ Each story has to fulfill a requirement with a very specific **goal** or **benef
 Sizable user story as measured in **story points** to provide a business value and complexity.
 
 >[!NOTE]
-> - Work divided into functional increments called “user stories
+> - Work divided into functional increments called **user stories**
 > - Short description of a feature from the perspective of the person who desires the new capability
 > - User story should be potentially shippable
 > - Size of a user story is measured in story points
