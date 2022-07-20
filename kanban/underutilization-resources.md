@@ -1,4 +1,4 @@
-# Underutilization of resources
+# Under utilization of resources
 
 When we talked about [finding inefficiencies](../kanban/process-inefficiencies.md), we saw the problem of one step being too slow and hampering the flow. Now, we are going to see another type of inefficiency which is underutilization of resources.
 
@@ -16,8 +16,8 @@ In both issues, [Limiting of WIP](../kanban/process-inefficiencies.md) and **Und
 
 | No. | Situation                                                               | Suggestion
 |-----|-------------------------------------------------------------------------|----------------------------------|
-| 1   | Too much work in progress (WIP) on a single stage - **Limiting the WIP** | More team members need to work on that stage(for e.g. testing stage in this scenario) instead of any of the previous stage |
-| 2   | **Under utilization of resources** - Pending tasks not moving to the next step | Reallocate the resources somewhere else where they can be utilized optimally |
+| 1   | Too much work in progress (WIP) on a single stage - **[Limiting the WIP](../kanban/process-inefficiencies.md)** | More team members need to work on that stage(for e.g. testing stage in this scenario) instead of any of the previous stage |
+| 2   | **[Under utilization of resources](../kanban/underutilization-resources.md)** - Pending tasks not moving to the next step | Reallocate the resources somewhere else where they can be utilized optimally |
 
 At some steps, work is flowing faster and some steps it is slower and the way we handle such situations is actually called **managing the flow**.
 

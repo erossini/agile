@@ -10,7 +10,7 @@ Once these changes are brought to the Scrum team, the product owner add them to 
 
 ## How it is done
 
-The requirements come from the business team and they are **raw**. The requirements are not raw from the user journey perspective or the business perspective but from the technical standpoint. 
+The requirements come from the business team and they are **raw**. The requirements are not raw from the user journey perspective or the business perspective but from the technical standpoint.
 
 For example, if the requirement is to send a notification to users who have abandoned the shopping basket without making payment, from the technical side, we need to see that we have the required permission to do that. Maybe we can do it for Android app but not for iOS app but it is fine for Windows. These are some of the things which the business team may not be aware of and therefore the requirement may be wrong.
 
