@@ -57,6 +57,9 @@
   - [Marking the task](./kanban/marking-task.md)
   - [Other issues](./kanban/other-issues.md)
   - [Definition of Done](./kanban/definition-of-done.md)
+  - [Daily standup](./kanban/daily-standup.md)
+  - [Specifying rules](./kanban/specifying-rules.md)
+  - [Flow Metrics](./kanban/flow-metrics.md)
   - [Scrumban](./kanban/scrumban.md)
 
 * [Kata](./kata/index.md)
@@ -67,6 +70,7 @@
     - [CMMI process](./tools/azure-devops/cmmi-process.md)
     - [Agile process](./tools/azure-devops/agile-process.md)
     - [Scrum process](./tools/azure-devops/scrum-process.md)
+    - [Customization](./tools/azure-devops/customize.md)
 
 * [Resources](./resources/index.md)
   - [Top Scrum Interview Questions](./resources/top-questions.md)
