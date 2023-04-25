@@ -1,0 +1,17 @@
+---
+title:
+- type: main
+  text: Agile
+- type: subtitle
+  text: A complete guide to start with Agile via Azure DevOps
+creator:
+- role: author
+  text: Enrico Rossini
+identifier:
+- scheme: DOI
+  text: doi:10.234234.234/33
+publisher: PureSourceCode.com
+rights: © 2007 Enrico Rossini, PureSourceCode.com
+ibooks:
+  version: 1.0.0
+...
